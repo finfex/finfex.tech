@@ -1,2 +1,3 @@
 # finfex.tech
-finfex.tech site
+
+Automaticaly deployed by github to https://finfex.tech
