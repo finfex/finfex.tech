@@ -58,6 +58,28 @@ li {
   }
 }
 
+h3 {
+  margin-top: 40px;
+}
+
 .small {
   font-size: 1rem;
+}
+
+.team-wrap {
+  display: flex;
+  margin-bottom: 60px;
+}
+.team-member {
+  text-align: center;
+  padding: 10px
+}
+.team-member > img {
+  border-radius: 100%;
+}
+
+@media all and (max-width: 768px) {
+  .team-member > img {
+    max-width: 120px;
+  }
 }
